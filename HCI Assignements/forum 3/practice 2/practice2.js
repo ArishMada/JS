@@ -25,4 +25,3 @@ const digitalDecipher = function(emessage, key) {
     console.log(decodedMessage);
 }
 
-digitalDecipher([14, 30, 11, 1, 20, 17, 18, 18], 1990)
